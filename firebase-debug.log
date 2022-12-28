@@ -1,0 +1,21 @@
+[debug] [2022-12-27T14:04:50.813Z] ----------------------------------------------------------------------
+[debug] [2022-12-27T14:04:50.817Z] Command:       C:\Program Files\nodejs\node.exe D:\builds\youtube-build\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-12-27T14:04:50.818Z] CLI Version:   11.19.0
+[debug] [2022-12-27T14:04:50.819Z] Platform:      win32
+[debug] [2022-12-27T14:04:50.819Z] Node Version:  v18.12.1
+[debug] [2022-12-27T14:04:50.820Z] Time:          Tue Dec 27 2022 19:34:50 GMT+0530 (India Standard Time)
+[debug] [2022-12-27T14:04:50.820Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-12-27T14:04:50.830Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-12-27T14:04:50.831Z] > authorizing via signed-in user (vksaha99340@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\builds\youtube-build
+
